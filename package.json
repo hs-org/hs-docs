@@ -1,0 +1,16 @@
+{
+  "name": "hs-docs",
+  "version": "0.1.0",
+  "description": "HappyShop Official Documentation",
+  "main": "index.js",
+  "author": "HappyShop",
+  "license": "MIT",
+  "homepage": "https://github.com/hs-org/hs-docs#readme",
+  "bugs": {
+    "url": "https://github.com/hs-org/hs-docs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs-org/hs-docs.git"
+  }
+}
